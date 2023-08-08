@@ -1,2 +1,2 @@
 # PolyChat
-Support and Community - DenysAlmaral.com
+Support and Community by Denys Almaral
